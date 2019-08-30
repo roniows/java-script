@@ -62,7 +62,7 @@ Difference between statements and expressions
 expressions
 ****************
 Javascript expressions are pieces of code that always produce a value and 
-it doesn't matter how they are  as long as the code results return in a single value, then it is expression.
+it doesn't matter how they are  as long as the code results return in a single value, so it is expression.
 
 ex:- in console
 expression
